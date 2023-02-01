@@ -1,4 +1,4 @@
 data = `[
     {"name" : "Nikunj", "mobile" : "(506) 111-1111", "website" : "nikunj3011.github.io", "location" : "311 Eddie Ave", "description" : "Software Developer", "email" : "nikunjrathod3011@gmail.com", "facebook" : "nikunj3011", "snapchat" : "nikunj_5", "instagram" : "nikunj3011", "linkedin" : "nikunj3011", "logo" : "Nikunj.png"},
-    {"name" : "Nikunj2", "mobile" : "(506) 111-1111", "website" : "nikunj3011.github.io", "location" : "311 Eddie Ave", "description" : "Software Developer", "email" : "nikunjrathod3011@gmail.com", "facebook" : "nikunj3011", "snapchat" : "nikunj_5", "instagram" : "nikunj3011", "linkedin" : "nikunj3011", "style" : "1"}
+    {"name" : "Nikunj2", "mobile" : "(506) 111-1111", "website" : "nikunj3011.github.io", "location" : "311 Eddie Ave", "description" : "Software Developer", "email" : "nikunjrathod3011@gmail.com", "facebook" : "nikunj3011", "snapchat" : "nikunj_5", "instagram" : "nikunj3011", "linkedin" : "nikunj3011", "logo" : "1"}
 ]`;
